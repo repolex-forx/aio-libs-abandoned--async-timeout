@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs-abandoned",
+  "repo": "async-timeout",
+  "versions": [
+    {
+      "commit": "7dc0022fb8160e3d7905cefa279e034e37063814",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:50:30.967029+00:00"
+    }
+  ]
+}
