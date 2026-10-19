@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs-abandoned/async-timeout/commit/7dc0022fb8160e3d7905cefa279e034e37063814",
       "git:hexsha": "7dc0022fb8160e3d7905cefa279e034e37063814",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:50:30.966542+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs-abandoned/async-timeout/commit/c0bde97b446134aaf2b096ef783e93db5c8dd810",
