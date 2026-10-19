@@ -1,0 +1,7 @@
+[2026-10-19T12:49:05Z] === AST ITERATION 1 START | repo=aio-libs-abandoned/async-timeout sha=7dc0022f ===
+[2026-10-19T12:49:05Z] [iter=1] PHASE START: ast repo=aio-libs-abandoned/async-timeout sha=7dc0022f
+[2026-10-19T12:49:05Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T12:49:08Z] [iter=1] AST chunks built count=1 triples=22903
+[2026-10-19T12:49:08Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7dc0022fb8160e3d7905cefa279e034e37063814/.complete
+[2026-10-19T12:49:08Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-10-19T12:49:08Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
